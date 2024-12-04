@@ -1,0 +1,16 @@
+th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    background: rgb(248, 245, 245);
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+table{
+    width: 1200px;
+    border-collapse: collapse;
+    text-align: center;
+}
